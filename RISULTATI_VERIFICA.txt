@@ -1,0 +1,22 @@
+VERIFICA RELEASE 0.2.0 — 6 novembre 2026
+
+59 test automatici superati sui sorgenti pubblici, inclusa concorrenza tra due processi per la stessa cartella.
+EXE Windows x64 costruito con PyInstaller 6.22.3, avviato e verificato offline.
+Errore su posizione sintetica nota: 0,0031 pixel circa; non è una misura della precisione in gioco.
+Procedura grafica di configurazione aperta dall'EXE, controllata e chiusa senza salvare.
+UI ispezionata con icone su esempio sintetico; immagine originale preservata byte per byte, senza cerchio nero.
+Overlay: flag di trasparenza ai clic, sblocco, ritorno al pannello e ripiego su monitor principale verificati su terreno sintetico.
+Vecchie risposte asincrone di errore ignorate dopo cambio mappa o fase; test di regressione inclusi.
+
+XFeat CPU da 2.681.450 byte: confronto eseguito anche dall'EXE, senza modificare il matching live.
+SIFT: 101.0 ms mediani, allineamento accettato.
+XFeat: 83.9 ms mediani, allineamento rifiutato (supporto insufficiente).
+Quattro passaggi sulla stessa cattura; la mediana esclude il primo. Nessun riferimento reale indipendente.
+Tre varianti sintetiche del test XFeat non hanno dato un allineamento accettabile: nessun miglioramento dimostrato.
+Questa prova riguarda l'adattatore e l'esportazione scelti; non dimostra che ogni variante di XFeat sia inadatta.
+Orientamento: resta il riconoscimento della freccia, con test sintetici di rotazione; nessun modello AI attivo sull'orientamento.
+
+Non verificati in questa release: precisione generale in partita, vera prelobby, FPS end-to-end mentre si gioca,
+compatibilità anti-cheat, fullscreen esclusivo, piani degli edifici e disponibilità reale dei forzieri.
+I punti rappresentano spawn del dataset, non casse confermate presenti o chiuse.
+

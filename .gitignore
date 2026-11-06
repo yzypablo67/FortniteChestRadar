@@ -1,0 +1,16 @@
+config.json
+config.json.tmp
+.venv/
+__pycache__/
+*.pyc
+cache/
+diagnostics/
+ai_dataset/
+ai_assets/
+ai_examples/
+ai_results/
+build/
+dist/
+*.spec
+startup_error.log
+self-test.json

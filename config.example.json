@@ -1,0 +1,24 @@
+{
+  "minimap_bbox_1920": [
+    1690,
+    27,
+    1892,
+    230
+  ],
+  "api_key": "",
+  "monitor_index": 1,
+  "minimap_bbox_pixels": null,
+  "player_anchor": [
+    0.5,
+    0.5
+  ],
+  "excluded_rects": [],
+  "opacity": 0.94,
+  "topmost": true,
+  "chest_radius_pixels": 110,
+  "matching_every_seconds": 2.5,
+  "position_refresh_seconds": 0.8,
+  "view_span_pixels": 220,
+  "overlay_opacity": 0.94,
+  "overlay_on_start": false
+}
